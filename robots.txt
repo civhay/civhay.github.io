@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://civhay.github.io/hSW/sitemap.hSW.gz
